@@ -1,4 +1,4 @@
-baseURL = "https://joshcarp.com/slides"
+baseURL = "http://slides.joshcarp.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
